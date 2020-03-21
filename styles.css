@@ -1,0 +1,24 @@
+body {
+    padding: 3%;
+}
+
+h1 {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2em;
+}
+
+.content {
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.5em;
+}
+
+.email {
+    font-family: 'Amiri', serif;
+    font-weight: 200;
+}
+
+#foto {
+    width: 30%;
+    float: right;
+    padding-left: 2%;
+}
